@@ -1,0 +1,1 @@
+In Practical 10, I engaged in writing Python code to model and simulate the spread of infectious diseases using the SIR (Susceptible-Infected-Recovered) model. I also explored the impact of vaccination on disease spread by incorporating it into the model and attempted a 2D spatial SIR model to account for geographical factors in disease transmission.

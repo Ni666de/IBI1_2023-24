@@ -1,5 +1,5 @@
 Hello. 
-My name is Rob.
-I like drinking tea and eating chocolate biscuits.
-I am enjoying teaching IBI1 in person again 
-I am happy that I can push my repo from Visual Studio Code to GitHub
+My name is Jiayi.
+I like drinking ameciano
+I like hiphop music
+I enjoy being a student on IBI class

@@ -32,12 +32,3 @@ plt.ylabel('DALYs')
 plt.title('DALYs in China Over Time')
 plt.xticks(rotation=-90) 
 plt.show()
-
-question = "How has the DALYs changed in the UK over time?"
-question_file = "question.txt"
-
-
-with open(question_file, "w") as f:
-    f.write(f"Question: {question}\n")
-    f.write("Line number in dalys.py: 99\n")
-    f.write("The result is...\n")
